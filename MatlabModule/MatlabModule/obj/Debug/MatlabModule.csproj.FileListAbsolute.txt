@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2013\Projects\MatlabModule\MatlabModule\obj\Debug\MatlabModule.csprojResolveAssemblyReference.cache
+c:\Program Files (x86)\Steam\SteamApps\common\Kerbal Space Program\Plugins\MatlabModule\MatlabModule.dll
+c:\Program Files (x86)\Steam\SteamApps\common\Kerbal Space Program\Plugins\MatlabModule\MatlabModule.pdb
+c:\users\admin\documents\visual studio 2013\Projects\MatlabModule\MatlabModule\obj\Debug\MatlabModule.dll
+c:\users\admin\documents\visual studio 2013\Projects\MatlabModule\MatlabModule\obj\Debug\MatlabModule.pdb
+C:\Users\admin\Dropbox\MatlabKerbalInterface\MatlabModule\MatlabModule\obj\Debug\MatlabModule.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\MatlabKerbalInterface\MatlabModule\MatlabModule\obj\Debug\MatlabModule.dll
+C:\Users\admin\Dropbox\MatlabKerbalInterface\MatlabModule\MatlabModule\obj\Debug\MatlabModule.pdb
+C:\Users\Program Files (x86)\Steam\SteamApps\common\Kerbal Space Program\Plugins\MatlabModule\MatlabModule.dll
+C:\Users\admin\Dropbox\Courses\Orbital\KSP MATLAB\MatlabModule\MatlabModule\obj\Debug\MatlabModule.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Courses\Orbital\KSP MATLAB\MatlabModule\MatlabModule\obj\Debug\MatlabModule.dll
+C:\Users\admin\Dropbox\Courses\Orbital\KSP MATLAB\MatlabModule\MatlabModule\obj\Debug\MatlabModule.pdb

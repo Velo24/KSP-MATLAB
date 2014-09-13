@@ -1,0 +1,8 @@
+C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\Plugins\Mathworks\MatlabModule.dll
+C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\Plugins\Mathworks\MatlabModule.pdb
+C:\Dropbox\MatlabKerbalInterface\MatlabModule\MatlabModule\obj\Release\MatlabModule.csprojResolveAssemblyReference.cache
+C:\Dropbox\MatlabKerbalInterface\MatlabModule\MatlabModule\obj\Release\MatlabModule.dll
+C:\Dropbox\MatlabKerbalInterface\MatlabModule\MatlabModule\obj\Release\MatlabModule.pdb
+C:\Users\admin\Dropbox\Courses\Orbital\KSP MATLAB\For KSP folder\Plugins\Mathworks\MatlabModule.dll
+C:\Users\admin\Dropbox\Courses\Orbital\KSP MATLAB\MatlabModule\MatlabModule\obj\Release\MatlabModule.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Courses\Orbital\KSP MATLAB\MatlabModule\MatlabModule\obj\Release\MatlabModule.dll
